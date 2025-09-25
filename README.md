@@ -9,9 +9,10 @@
 - Github
 
 ## como visualizar la pagina
-- 
+- https://github.com/Maximiliano213/Trabajo4.git
 
 ## estructura del proyecto
 - index.html: pagina principal con informacion sobre el personaje elegido
 - style.css: estilos aplicados en la pagina
+
 - redme.md: documentacion del trabajo 
